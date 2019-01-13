@@ -10,9 +10,9 @@ The goals / steps of this project are the following:
 [image1]: ./test_images_output/solidWhiteCurve.png "Solid white curve"
 [image2]: ./test_images_output/solidWhiteRight.png "Solid white right"
 [image3]: ./test_images_output/solidYellowCurve2.png "Solid yellow curve"
-[image4]: ./test_images_output/solidYellowCurve.png" "Solid yellow curve"
-[image5]: ./test_images_output/solidYellowLeft.png" "Solid yellow left"
-[image6]: ./test_images_output/whiteCarLaneSwitch.png" "White car lane switch"
+[image4]: ./test_images_output/solidYellowCurve.png "Solid yellow curve"
+[image5]: ./test_images_output/solidYellowLeft.png "Solid yellow left"
+[image6]: ./test_images_output/whiteCarLaneSwitch.png "White car lane switch"
 
 ---
 
